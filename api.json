@@ -1,0 +1,193 @@
+[
+      {
+        "nome": "Roger Federer",
+        "nacionalidade": "Suíça",
+        "vitorias": 103,
+        "derrotas": 29,
+        "pontuacao": 12000,
+        "campeonatos": [
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 8
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 5
+          },
+          {
+            "nome": "Australian Open",
+            "tipo": "Grand Slam",
+            "quantidade": 6
+          }
+        ]
+      },
+      {
+        "nome": "Rafael Nadal",
+        "nacionalidade": "Espanha",
+        "vitorias": 88,
+        "derrotas": 26,
+        "pontuacao": 11000,
+        "campeonatos": [
+          {
+            "nome": "French Open",
+            "tipo": "Grand Slam",
+            "quantidade": 13
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 4
+          },
+          {
+            "nome": "Australian Open",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "nome": "Novak Djokovic",
+        "nacionalidade": "Sérvia",
+        "vitorias": 91,
+        "derrotas": 18,
+        "pontuacao": 12500,
+        "campeonatos": [
+          {
+            "nome": "Australian Open",
+            "tipo": "Grand Slam",
+            "quantidade": 9
+          },
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 6
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 3
+          }
+        ]
+      },
+      {
+        "nome": "Serena Williams",
+        "nacionalidade": "Estados Unidos",
+        "vitorias": 73,
+        "derrotas": 13,
+        "pontuacao": 9000,
+        "campeonatos": [
+          {
+            "nome": "Australian Open",
+            "tipo": "Grand Slam",
+            "quantidade": 7
+          },
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 7
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 6
+          }
+        ]
+      },
+      {
+        "nome": "Naomi Osaka",
+        "nacionalidade": "Japão",
+        "vitorias": 7,
+        "derrotas": 4,
+        "pontuacao": 3500,
+        "campeonatos": [
+          {
+            "nome": "Australian Open",
+            "tipo": "Grand Slam",
+            "quantidade": 2
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "nome": "Ashleigh Barty",
+        "nacionalidade": "Austrália",
+        "vitorias": 13,
+        "derrotas": 5,
+        "pontuacao": 6000,
+        "campeonatos": [
+          {
+            "nome": "French Open",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          },
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "nome": "Andy Murray",
+        "nacionalidade": "Reino Unido",
+        "vitorias": 46,
+        "derrotas": 21,
+        "pontuacao": 6000,
+        "campeonatos": [
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 2
+          },
+          {
+            "nome": "US Open",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "nome": "Simona Halep",
+        "nacionalidade": "Romênia",
+        "vitorias": 22,
+        "derrotas": 7,
+        "pontuacao": 4500,
+        "campeonatos": [
+          {
+            "nome": "French Open",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          },
+          {
+            "nome": "Wimbledon",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "nome": "Stefanos Tsitsipas",
+        "nacionalidade": "Grécia",
+        "vitorias": 7,
+        "derrotas": 3,
+        "pontuacao": 4000,
+        "campeonatos": [
+          {
+            "nome": "Roland Garros",
+            "tipo": "Grand Slam",
+            "quantidade": 1
+          },
+          {
+            "nome": "ATP Finals",
+            "tipo": "ATP Masters 1000",
+            "quantidade": 1
+          }
+        ]
+      }
+  ]
