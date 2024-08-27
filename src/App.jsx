@@ -8,7 +8,7 @@ function App() {
   const [tenis, setTenis] = useState([])
 
   useEffect(() => {
-    fetch("./api.json").then(res => res.json()).then(data => setTenis(data))
+    fetch("/api.json").then(res => res.json()).then(data => setTenis(data))
   }, [])
   
   return (
